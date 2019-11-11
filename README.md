@@ -23,3 +23,5 @@ python smile_detector.py
 ```
 
 ##### Screen Shot -
+
+[![IMAGE ALT TEXT HERE]("Screenshot 2019-11-07 at 2.48.51 PM.png")]
