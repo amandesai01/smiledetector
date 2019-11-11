@@ -24,4 +24,4 @@ python smile_detector.py
 
 ##### Screen Shot -
 
-[![IMAGE ALT TEXT HERE]("screenshot.png")]
+[![IMAGE ALT TEXT HERE](screenshot.png)]
